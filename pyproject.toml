@@ -20,6 +20,8 @@ missingno = "^0.5.2"
 lightgbm = "^4.5.0"
 imbalanced-learn = "^0.12.4"
 torch = "^2.5.1"
+optuna = "^4.0.0"
+ipywidgets = "^8.1.5"
 
 [build-system]
 requires = ["poetry-core"]
